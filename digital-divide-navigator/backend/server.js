@@ -33,7 +33,7 @@ app.post('/api/extract-data', async (req, res) => {
 
     try {
         const response = await axios.post(OLLAMA_URL, {
-            model: "llama3",
+            model: "qwen3.5:4b",
             prompt: prompt,
             stream: false,
             format: "json"
