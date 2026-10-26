@@ -27,5 +27,5 @@ Before running this project, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/digital-divide-navigator.git
+git clone https://github.com/TrxviZ/digital-divide-navigator.git
 cd digital-divide-navigator
